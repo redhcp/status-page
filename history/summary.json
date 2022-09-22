@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/redhcp.me",
     "slug": "redhcp",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 130,
-    "timeDay": 34,
-    "timeWeek": 171,
-    "timeMonth": 133,
+    "timeDay": 150,
+    "timeWeek": 170,
+    "timeMonth": 132,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2022-09-15": 56
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 1215,
+    "time": 1276,
+    "timeDay": 1804,
     "timeWeek": 1176,
-    "timeMonth": 1292,
-    "timeYear": 1264,
+    "timeMonth": 1334,
+    "timeYear": 1276,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 83,
-    "timeWeek": 125,
-    "timeMonth": 131,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 158,
+    "timeWeek": 135,
+    "timeMonth": 133,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
