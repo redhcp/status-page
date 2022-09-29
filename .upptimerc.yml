@@ -21,13 +21,13 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Redhcp Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Welcome to **Redhcp** Status Page"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: https://redhcp.me/status-page/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: light
+  theme: Dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
