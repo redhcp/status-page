@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/redhcp.me",
     "slug": "redhcp",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
+    "time": 123,
+    "timeDay": 34,
+    "timeWeek": 72,
+    "timeMonth": 119,
+    "timeYear": 123,
+    "dailyMinutesDown": {
+      "2022-09-15": 56
+    }
   },
   {
     "name": "Redhcp Docs",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 1069,
-    "timeWeek": 1069,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "time": 1220,
+    "timeDay": 1569,
+    "timeWeek": 864,
+    "timeMonth": 1279,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 115,
+    "timeDay": 65,
+    "timeWeek": 87,
+    "timeMonth": 121,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
