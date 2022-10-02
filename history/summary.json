@@ -2,7 +2,7 @@
   {
     "name": "Redhcp",
     "url": "https://redhcp.me/",
-    "icon": "https://favicons.githubusercontent.com/redhcp.me",
+    "icon": "https://icons.duckduckgo.com/ip3/redhcp.me.ico",
     "slug": "redhcp",
     "status": "up",
     "uptime": "99.92%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 123,
-    "timeDay": 136,
-    "timeWeek": 91,
+    "timeDay": 120,
+    "timeWeek": 99,
     "timeMonth": 126,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
   {
     "name": "Redhcp Docs",
     "url": "https://www.redhcp.info/menu_long/",
-    "icon": "https://favicons.githubusercontent.com/www.redhcp.info",
+    "icon": "https://icons.duckduckgo.com/ip3/www.redhcp.info.ico",
     "slug": "redhcp-docs",
     "status": "up",
     "uptime": "100.00%",
@@ -30,17 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 1274,
-    "timeWeek": 809,
-    "timeMonth": 1246,
-    "timeYear": 1203,
+    "time": 1201,
+    "timeDay": 1063,
+    "timeWeek": 838,
+    "timeMonth": 1270,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 90,
-    "timeWeek": 106,
+    "time": 117,
+    "timeDay": 95,
+    "timeWeek": 109,
     "timeMonth": 127,
-    "timeYear": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
