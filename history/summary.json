@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 119,
-    "timeDay": 117,
-    "timeWeek": 150,
-    "timeMonth": 107,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 153,
+    "timeWeek": 153,
+    "timeMonth": 110,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2022-09-15": 56
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redhcp.info.ico",
     "slug": "redhcp-docs",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.07%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "99.07%",
     "time": 1192,
-    "timeDay": 438,
-    "timeWeek": 1103,
-    "timeMonth": 1261,
+    "timeDay": 0,
+    "timeWeek": 1000,
+    "timeMonth": 1241,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2022-12-02": 65,
+      "2022-12-03": 62,
+      "2022-12-02": 1440,
       "2022-12-01": 23
     }
   },
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 84,
-    "timeWeek": 131,
+    "time": 123,
+    "timeDay": 79,
+    "timeWeek": 130,
     "timeMonth": 119,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   }
 ]
