@@ -6,17 +6,16 @@
     "slug": "redhcp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 77,
-    "timeWeek": 109,
-    "timeMonth": 129,
+    "timeDay": 106,
+    "timeWeek": 113,
+    "timeMonth": 132,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-05-25": 5,
       "2022-09-15": 56
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 91,
-    "timeWeek": 85,
-    "timeMonth": 93,
+    "timeDay": 69,
+    "timeWeek": 82,
+    "timeMonth": 92,
     "timeYear": 115,
     "dailyMinutesDown": {}
   }
