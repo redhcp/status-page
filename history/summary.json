@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 144,
-    "timeWeek": 219,
-    "timeMonth": 159,
+    "timeDay": 158,
+    "timeWeek": 200,
+    "timeMonth": 163,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-09-15": 56
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 120,
-    "timeDay": 94,
-    "timeWeek": 121,
-    "timeMonth": 144,
+    "timeDay": 106,
+    "timeWeek": 123,
+    "timeMonth": 145,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-08-04": 35,
