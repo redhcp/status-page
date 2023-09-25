@@ -5,8 +5,6 @@ repo: status-page # The name of this repository
 sites:
   - name: Redhcp
     url: https://redhcp.me/
-  - name: Google
-    url: https://www.google.com
 
 assignees:
   - redhcp
