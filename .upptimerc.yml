@@ -4,7 +4,7 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Redhcp
-    url: https://redhcp.me/
+    url: https://redhcp.site/
 
 assignees:
   - redhcp
@@ -21,7 +21,7 @@ status-website:
   introMessage:
   navbar:
     - title: Site
-      href: https://redhcp.me/
+      href: https://redhcp.site/
       favicon: https://github.com/redhcp/redhcp.github.io/blob/master/assets/favicon.png
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
