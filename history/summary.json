@@ -1,20 +1,23 @@
 [
   {
     "name": "Redhcp",
-    "url": "https://redhcp.me/",
-    "icon": "https://icons.duckduckgo.com/ip3/redhcp.me.ico",
+    "url": "https://redhcp.site/",
+    "icon": "https://icons.duckduckgo.com/ip3/redhcp.site.ico",
     "slug": "redhcp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 177,
-    "timeWeek": 161,
-    "timeMonth": 173,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2023-11-12": 45,
+      "2023-10-03": 19
+    }
   }
 ]
