@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/redhcp.site.ico",
     "slug": "redhcp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.91%",
+    "uptimeDay": "63.63%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.90%",
     "time": 130,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-12": 45,
+      "2023-11-13": 56,
+      "2023-11-12": 468,
       "2023-10-03": 19
     }
   }
