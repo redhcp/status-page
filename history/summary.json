@@ -4,7 +4,7 @@
     "url": "https://www.redhcp.site/",
     "icon": "https://icons.duckduckgo.com/ip3/www.redhcp.site.ico",
     "slug": "redhcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 219,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2024-11-28": 24
     }
   }
