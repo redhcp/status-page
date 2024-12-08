@@ -1,14 +1,14 @@
 [
   {
     "name": "Redhcp",
-    "url": "https://www.redhcp.site/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.redhcp.site.ico",
+    "url": "https://www.redhcp.work/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.redhcp.work.ico",
     "slug": "redhcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 197,
     "timeDay": 92,
@@ -16,7 +16,7 @@
     "timeMonth": 530,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-12-08": 14,
+      "2024-12-08": 0,
       "2024-12-05": 49,
       "2024-12-01": 23,
       "2024-11-28": 24
