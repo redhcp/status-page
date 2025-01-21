@@ -1,7 +1,7 @@
 url: www.redhcp.work/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-21T19:59:57.685Z
+status: up
+code: 200
+responseTime: 33
+lastUpdated: 2025-01-21T20:17:56.800Z
 startTime: 2022-08-11T15:20:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
