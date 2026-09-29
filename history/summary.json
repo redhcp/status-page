@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "redhcp",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 147,
-    "timeWeek": 268,
-    "timeMonth": 201,
-    "timeYear": 149,
+    "timeDay": 402,
+    "timeWeek": 314,
+    "timeMonth": 208,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   }
 ]
